@@ -1,5 +1,5 @@
 # Doom-Engine
-Game engine made to render like doom, with a level editor.
+Game engine made to render like doom, with a simple level editor.
 
 
 "W, A, S, D" are to move forward, back, left, right                                   
